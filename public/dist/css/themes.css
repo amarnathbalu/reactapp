@@ -1,0 +1,152 @@
+
+
+/**{
+    font-family: 'Open Sans', sans-serif;
+}*/
+
+.restaurant-wrap{
+    min-height: 170px;
+}
+.navbar{
+    background-image:none;
+
+}
+.navbar-dark .navbar-nav .nav-link {
+    color:#ff3800;
+}
+
+.navbar-fixed-top.scrolled{
+    background-color:#fff;
+    transition: background-color 500ms linear;
+}
+.navbar-fixed-top.scrolled a.active.nav-link{
+    border-bottom: 1px solid #fff;
+}
+
+a.active.nav-link{
+    border-bottom: 1px solid  ;
+}
+
+::before, ::after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+element {
+
+}
+body.sb-l-m #sidebar_left .sidebar-label, body.sb-l-m #sidebar_left .sidebar-title-tray, body.sb-l-m #sidebar_left .sidebar-title, body.sb-l-m #sidebar_left .caret {
+
+    display: none;
+
+}
+#sidebar_left span {
+
+    color: #fff;
+
+}
+
+
+.link-white  a.active.nav-link{
+    border-bottom: 1px solid #fff;
+}
+.m-b-20{
+    margin-bottom: 20px;
+}
+
+#content{
+    padding:100px 0px;
+}
+
+.text-feasto{
+    color:#ff3800;
+}
+
+.step-item h4 {
+    margin-top:10px !important;
+}
+
+.page-title{
+    padding:30px 0px;
+    text-align: left;
+}
+
+.page-title h1{
+    text-transform: uppercase;
+    color:#ff3800;
+    font-size: 38px;    
+}
+
+.breadcrumb{
+    margin-bottom: 20px;
+}
+
+.bg-image{
+    //background: url(images/bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    
+}
+
+.mt-20{
+    margin-top:20px;
+}
+
+.image-wrap, .image-wrap figure{
+    background-color: transparent !important;
+    background: none !important;
+}
+
+.parsley-error{
+    border: 1px solid #ff3800;
+}
+
+.parsley-required,.parsley-custom-error-message{
+    font-size: 13px;
+    color:#ff3800;
+    margin-top:3px;
+}
+.hide{
+    display:none;
+}
+
+.title1{
+    padding:20px 0px;
+    color:#ff3800;
+}
+
+.service-li ul{
+    padding:0px;
+    margin:0px;
+
+}
+
+.service-li ul li{
+    padding:10px;
+
+}
+
+.service-li ul li i{
+    margin-right:10px;
+}
+
+.theme-btn-dash {
+    border: 2px solid #ff3800;
+    background-color: #ff3800;
+    color: #FFF;
+}
+
+/* custom style by ukensiran */
+
+footer {
+    padding: 30px 0;
+}
+
+.how-it-works-links {
+    margin-bottom: 0px;
+}
+
+.page-title {
+    padding: 0px 0px;
+   
+}
